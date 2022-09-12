@@ -4241,7 +4241,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1348508342}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1a8a05de0ac134f4f9d01bef6b9da077, type: 3}
   m_Name: 
@@ -4654,6 +4654,10 @@ PrefabInstance:
     - target: {fileID: 1724247915382754883, guid: ea9eba8edd88fc945aa8d8a69ba0494f, type: 3}
       propertyPath: m_DefaultActionMap
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 2791981808030847655, guid: ea9eba8edd88fc945aa8d8a69ba0494f, type: 3}
+      propertyPath: m_Constraints
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 3165700300633860630, guid: ea9eba8edd88fc945aa8d8a69ba0494f, type: 3}
       propertyPath: m_Name
